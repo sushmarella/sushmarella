@@ -1,12 +1,12 @@
 # Hi, I'm Sushant Marella
 
-I build web applications with TypeScript and Next.js, with work spanning authentication, document workflows, interactive interfaces, and API integrations. My projects include team coursework at UNC–Chapel Hill and open-source contributions.
+I build web applications with TypeScript and Next.js, with work spanning authentication, document workflows, interactive interfaces, and API integrations. I collaborate on team projects and contribute to open-source software.
 
 ## Selected projects
 
 ### [Commune — housing management portal](https://github.com/comp426-25f/final-project-team-17)
 
-A team project for UNC's COMP 426 connecting residents and landlords through maintenance tickets, announcements, housing documents, and a unit directory.
+A housing management portal connecting residents and landlords through maintenance tickets, announcements, housing documents, and a unit directory.
 
 **My contributions:** authentication, document functionality for residents and landlords, protected-page access, ticket deletion and styling, and project documentation.
 
