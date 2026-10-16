@@ -4,6 +4,14 @@ I build web applications with TypeScript and Next.js, with work spanning authent
 
 ## Selected projects
 
+### Research Match — connecting students with researchers
+
+A team-built research discovery feature that helps students explore research opportunities and draft outreach to researchers.
+
+**My contributions:** fixed expandable project details and refined AI email-generation prompts to use students' supplied backgrounds and interests without inventing qualifications or experience.
+
+**Stack:** Angular, TypeScript, Python, FastAPI, OpenAI integration. Source repository is private.
+
 ### [Commune — housing management portal](https://github.com/comp426-25f/final-project-team-17)
 
 A housing management portal connecting residents and landlords through maintenance tickets, announcements, housing documents, and a unit directory.
@@ -32,6 +40,17 @@ A team web project with interactive game pages and user authentication.
 
 [Merged contribution](https://github.com/unctechx/pushing-pymetrics/pull/1)
 
+## More projects
+
+| Project | My implementation work | Technologies |
+| --- | --- | --- |
+| **Akari — logic puzzle game** | Puzzle-state management, lighting and placement validation, completion checks, and an interactive graphical board using MVC and observer patterns. | Java, JavaFX |
+| **Command-line shell** | Command parsing, PATH lookup, child-process execution with fork/exec/wait, and memory cleanup. | C, POSIX |
+| **Pixel Art Maker** | Pencil, full-canvas fill, eraser, and canvas-reset behavior in a browser drawing tool. | TypeScript, Vite |
+| **Alias — chat application** | Streaming channel-summary UI, subscription error handling, and prompts that organize conversation summaries by week. | TypeScript, Next.js, tRPC |
+
+Source repositories for these projects are private; the summaries describe my implementation work.
+
 ## Open-source contributions
 
 ### [flepimop2 — scientific simulation tooling](https://github.com/ACCIDDA/flepimop2)
@@ -44,4 +63,4 @@ I have submitted documentation improvements connecting the quickstart to researc
 
 ---
 
-These projects were built collaboratively. The contribution links highlight my individual work; each repository documents the wider team's project.
+For collaborative projects, the descriptions highlight my individual contributions. Public contribution links provide examples of my work within the wider team's project.
